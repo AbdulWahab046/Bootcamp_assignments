@@ -1,0 +1,27 @@
+{
+    "photos":[
+    {
+      "id": 1,
+    "tag":"One-Piece-Nami",
+    "heading":"Nami",
+    "image_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDzn3GeVawtsEDTMNVIHZRRAtSAhgKsH7tHQ&usqp=CAU",
+    "description":"Cat Burglar Nami is the navigator of the Straw Hat Pirates. She is the third member of the crew and the second to join, doing so during the Orange Town Arc."
+    },
+
+    {
+      "id": 2,
+    "tag":"One-Piece-Hancookak",
+    "heading":"Hancook",
+    "image_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVxXrzS6A4KSFdtp8Ylb9LyF_-aE7cW4xe9NhQMTPFaCvay7V3cpI4q7jGAhubDeU8cNg&usqp=CAU",
+    "description":"Pirate Empress Boa Hancock is the captain of the Kuja Pirates and was the only female Warlord of the Sea prior to the organization's disbandment."
+    },
+
+    {
+      "id": 3,
+    "tag":"One-Piece",
+    "heading":"Straw Hat Pirates",
+    "image_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsPWTbhsmI0XLn56bVZGX452pp8I4qW1rTmA&usqp=CAU",
+    "description":"The Straw Hat Pirates, also known as the Mugiwara Pirates, Straw Hat Crew or simply the Straw Hats, are an infamous and powerful pirate crew that originated from the East Blue."
+    }
+]
+}
