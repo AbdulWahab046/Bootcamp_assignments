@@ -1,0 +1,25 @@
+{
+    "photos": [
+        {
+        "id": 1,
+        "tag": "free-photos",
+        "heading":  "Free-photos",
+        "image_url":"https://pixabay.com/photos/tree-sunset-clouds-sky-silhouette-736885/", 
+        "discription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+        "id": 2,
+        "tag": "pro-photos",
+        "heading":  "pro-photos",
+        "image_url":"https://pixabay.com/photos/flowers-meadow-sunlight-summer-276014/", 
+        "discription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+        "id": 3,
+        "tag": "premium-photos",
+        "heading":  "premium-photos",
+        "image_url":"https://pixabay.com/photos/flowers-butterfly-19830/", 
+        "discription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    }
+]
+}
