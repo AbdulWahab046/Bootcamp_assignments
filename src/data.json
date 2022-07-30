@@ -1,0 +1,27 @@
+{
+    "photos" : [
+    {
+        "id": 1,
+        "tag": "Exercise for better flexbility",
+        "heading": "Exercise for better flexbility",
+        "image_url": "https://cdn.pixabay.com/photo/2018/01/01/01/56/yoga-3053487_1280.jpg",
+        "description" : "Because stretching may aggravate an existing injury, if you're injured, you should consult an athletic trainer or physical therapist about an appropriate flexibility program."
+        } ,
+
+        {
+            "id": 2,
+            "tag": "Exercise for Quad ",
+            "heading": "Quad exercise ",
+            "image_url": "https://cdn.pixabay.com/photo/2019/10/18/15/02/remove-4559344_1280.jpg",
+            "description" : "The squat is one of the best exercises to tone legs."
+            } ,
+
+            {
+                "id": 3,
+                "tag": "Exercise for love handles",
+                "heading": "Side plank ",
+                "image_url": "https://cdn.pixabay.com/photo/2016/04/13/17/00/plank-1327256_1280.jpg",
+                "description" : "The side plank is another great exercise that can be used to lose the love handles."
+                }
+]
+}
