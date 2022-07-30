@@ -1,0 +1,32 @@
+{
+    "photos" :[
+        {
+        "id": 1,
+        "tag":"freemium-photos",
+        "heading":"freemium-photos",
+        "image_url":"https://cdn.pixabay.com/photo/2022/06/14/00/22/mountain-7260827__340.jpg",
+        "description":"From enchanting nature's beauty quotes that evoke visions of lush meadows full of brilliantly-colored flowers or dense forests with sky-high trees to famous quotes about nature's ever-present—and absolutely fundamental—role in our lives, these 101 quotes about nature will have you itching to get off your couch and get outside. For famous quotes about nature, we have them here!"
+    },
+    {
+        "id": 2,
+        "tag":"premium-photos",
+        "heading":"premium-photos",
+        "image_url":"https://cdn.pixabay.com/photo/2022/06/26/14/53/bird-7285669__340.jpg",
+        "description":"I went to the woods because I wished to live deliberately, to front only the essential facts of life, and see if I could not learn what it had to teach, and not, when I came to die, discover that I had not lived. —Henry David Thoreau"
+    },
+    {
+        "id": 3,
+        "tag":"pro-premium-photos",
+        "heading":"pro-premium-photos",
+        "image_url":"https://cdn.pixabay.com/photo/2022/07/22/13/23/coast-7338147__340.jpg",
+        "description":"Undoubtedly we have no questions to ask which are unanswerable. We must trust the perfection of the creation so far, as to believe that whatever curiosity the order of things has awakened in our minds, the order of things can satisfy. Every man's condition is a solution in hieroglyphic to those inquiries he would put. He acts it as life, before he apprehends it as truth. In like manner, nature is already, in its forms and tendencies, describing its own design. Let us interrogate the great apparition, that shines so peacefully around us. Let us inquire, to what end is nature?"
+    },
+    {
+        "id": 4,
+        "tag":"ultra-pro-premium-photos",
+        "heading":"ultra-pro-premium-photos",
+        "image_url":"https://cdn.pixabay.com/photo/2022/07/18/19/57/dog-7330712__340.jpg",
+        "description":"Our age is retrospective. It builds the sepulchres of the fathers. It writes biographies, histories, and criticism. The foregoing generations beheld God and nature face to face; we, through their eyes. Why should not we also enjoy an original relation to the universe? Why should not we have a poetry and philosophy of insight and not of tradition, and a religion by revelation to us, and not the history of theirs? Embosomed for a season in nature, whose floods of life stream around and through us, and invite us by the powers they supply, to action proportioned to nature, why should we grope among the dry bones of the past, or put the living generation into masquerade out of its faded wardrobe? The sun shines to-day also. There is more wool and flax in the fields. There are new lands, new men, new thoughts. Let us demand our own works and laws and worship."
+    }
+    ]
+}
