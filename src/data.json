@@ -1,0 +1,32 @@
+{
+    "photos" :[
+        {
+        "id": 1,
+        "tag":"free-photos",
+        "heading":"free-photos",
+        "image_url":"https://www.gettyimages.com/gi-resources/images/500px/983703508.jpg",
+        "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+    },
+    {
+        "id": 2,
+        "tag":"standard-photos",
+        "heading":"standard-photos",
+        "image_url":"https://www.lockheedmartin.com/content/dam/lockheed-martin/aero/photo/f16/F-16V_CFTs-in-hangar_1920.jpg.pc-adaptive.full.medium.jpeg",
+        "description":"Simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+    },
+    {
+        "id": 3,
+        "tag":"premium-photos",
+        "heading":"premium-photos",
+        "image_url":"https://www.toica-fp7.eu/wp-content/uploads/2020/05/Aircraft.jpg",
+        "description":"Printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+    },
+    {
+        "id": 4,
+        "tag":"pro-photos",
+        "heading":"pro-photos",
+        "image_url":"https://media.gettyimages.com/photos/shah-faisal-masjid-islamabad-pakistan-picture-id912853916?s=612x612",
+        "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+    }
+    ]
+}
