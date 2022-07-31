@@ -1,0 +1,25 @@
+{
+	"photos": [
+		{
+			"id": 1,
+			"tag": "free-photos",
+			"heading": "Free Photos",
+			"image_url": "https://live.staticflickr.com/4182/34756328645_dc5394c178_b.jpg",
+			"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+		},
+		{
+			"id": 2,
+			"tag": "new-photos",
+			"heading": "New Photos",
+			"image_url": "https://th.bing.com/th/id/R.6fcc4b20446ac1d93141454f59288751?rik=zXOgFABMPYxStA&riu=http%3a%2f%2f3.bp.blogspot.com%2f-kAZnPhNccRc%2fUU_tZgfMRoI%2fAAAAAAAAEoE%2fIQtyGHj8v1A%2fs1600%2f118.jpg&ehk=TwXHdLNwRlJ5%2b%2bwKiZ9bpROuKeJ4XfDy80mJZF0GmEk%3d&risl=&pid=ImgRaw&r=0/",
+			"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+		},
+		{
+			"id": 3,
+			"tag": "premium-photos",
+			"heading": "Premium Photos",
+			"image_url": "https://th.bing.com/th/id/OIP.JhVL5t8_dQgXUl3y6JGaAQHaE8?pid=ImgDet&w=900&h=601&rs=1",
+			"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+		}
+	]
+}
